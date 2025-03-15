@@ -1,0 +1,54 @@
+
+#head1{
+    
+    color: rgb(35, 221, 110);
+    font-size: 35px;
+    text-align: center;
+}
+#head2{
+    color: rgb(80, 182, 200);
+    font-size: 20px;
+    
+    text-align: center;
+    font-style: italic;
+}
+.btn{
+    background-color: rgb(166, 176, 172);
+    color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+   
+}
+#head3{
+    color:  rgb(146, 45, 141);
+    font-size: 27px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+#inputName{
+    width: 400px;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    font-size: 21px;
+}
+#sbtn{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 10px 15px;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 20px;
+    border: 2px solid black;
+}
+#sbtn:hover{
+    background-color: rgb(102, 94, 94);
+}
+#name1{
+    font-size: 21px;
+    margin-right: 350px;
+}
